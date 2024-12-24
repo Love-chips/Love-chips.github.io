@@ -22,7 +22,7 @@ body {
 	box-sizing: border-box;
 	padding: 20px 0;
 	box-shadow: 1px 1px 5px 5px #c0bdbd;
-	background: url(../img/首页盒子背景.jpg) no-repeat center/1000px;
+	background: url(首页盒子背景.jpg) no-repeat center/1000px;
 	animation: resize 1s infinite alternate;
 }
 
